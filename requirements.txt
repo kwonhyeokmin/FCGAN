@@ -1,0 +1,5 @@
+opencv-python
+albumentations
+easydict
+wandb
+pycocotools

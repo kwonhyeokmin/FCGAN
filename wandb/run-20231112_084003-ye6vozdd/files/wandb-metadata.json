@@ -1,0 +1,51 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.13",
+    "heartbeatAt": "2023-11-11T23:40:05.211214",
+    "startedAt": "2023-11-11T23:40:03.878807",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--cfg",
+        "configs/fcvgan_selfie2anime_config.yaml",
+        "--use_wandb"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\hyeokmin\\PycharmProjects\\FCGAN\\train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "host": "DESKTOP-N5AMTGM",
+    "username": "hyeokmin",
+    "executable": "C:\\Users\\hyeokmin\\Anaconda3\\envs\\FCGAN\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2500.0,
+        "min": 0.0,
+        "max": 2500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2500.0,
+            "min": 0.0,
+            "max": 2500.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 930.7797203063965,
+            "used": 566.4715843200684
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 31.86315155029297
+    }
+}
